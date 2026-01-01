@@ -1,5 +1,7 @@
 # Diabetes Prediction – Kaggle Playground Series (S5E12)
 
+<img width="576" height="384" alt="image" src="https://github.com/user-attachments/assets/333f6962-b0c3-4619-8034-2d3e79c2e200" />
+
 This repository presents my participation in the Kaggle *Playground Series Season 5 – Episode 12* competition, focused on **diabetes risk prediction using tabular medical and lifestyle data**.
 
 The objective of this project is **not leaderboard maximization**, but rather:
